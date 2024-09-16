@@ -1,0 +1,147 @@
+.flex {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+}
+
+.a,
+.s,
+.d,
+.f,
+.g {
+  width: 50px;
+  height: 50px;
+  background-color: orange;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin: 5px 5px;
+}
+
+.direction {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  direction: ltr;
+}
+
+.Wrap {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.Justify {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Flex {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+}
+
+.justify1 {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.justify2 {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+.justify3 {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.align {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  align-items: start;
+}
+
+.align2 {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  align-items: end;
+}
+
+.align3 {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+}
+
+.justify4 {
+  margin: 20px;
+  background-color: blueviolet;
+  width: 240px;
+  height: 240px;
+  border-radius: 10px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+}
+
+.first,
+.second,
+.th {
+  display: flex;
+}
